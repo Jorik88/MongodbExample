@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MongodbExample.iml" filepath="$PROJECT_DIR$/MongodbExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MongodbExample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MongodbExample_main.iml" group="MongodbExample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MongodbExample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MongodbExample_test.iml" group="MongodbExample" />
+    </modules>
+  </component>
+</project>
